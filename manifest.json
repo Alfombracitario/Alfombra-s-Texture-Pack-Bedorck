@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "§2A texture pack made by \n§4Alfombra de madera\n§32024",
+    "name": "§3Alfombra's TexturePack",
+    "uuid": "0a6437f3-f02e-4180-aef7-5e52d027ba7a",
+    "version": [0,0,0],
+    "min_engine_version":[1,21,50]
+  },
+  "modules": [
+    {
+      "description": "4bpp texture pack",
+      "type": "resources",
+      "uuid": "b676b5fb-572a-3044-bba4-12857f2e9fd3",
+      "version": [0,0,0]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "old_pots",
+      "memory_tier": 1,
+      "name": "§1Classic potion colors"
+    },
+    {
+      "folder_name": "normal",
+      "memory_tier": 2,
+      "name": "§4Modern potion colors"
+    },
+    {
+      "folder_name": "3D",
+      "memory_tier": 3,
+      "name": "§6Custom 3D models"
+    }
+  ]
+}

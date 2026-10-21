@@ -1,0 +1,21 @@
+{
+  "sand": {
+    "isotropic": false
+  },
+  "red_sand": {
+    "isotropic": false
+  },
+  "netherrack": {
+    "isotropic": false
+  },
+  "end_portal_frame": {
+    "textures": {
+      "up": "endframe_top",
+      "down": "endframe_bottom",
+      "north": "endframe_side",
+      "south": "endframe_side",
+      "west": "endframe_side",
+      "east": "endframe_side"
+    }
+  }
+}

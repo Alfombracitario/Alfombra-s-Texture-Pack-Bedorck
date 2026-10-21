@@ -1,0 +1,11 @@
+{
+  "namespace": "progress",
+  "auto_save_animation": {
+    "anim_type": "flip_book",
+    "initial_uv": [ 0, 0 ],
+    "frame_count": 9,
+    "frame_step": 18,
+    "fps": 10,
+    "reversible": false
+  }
+}

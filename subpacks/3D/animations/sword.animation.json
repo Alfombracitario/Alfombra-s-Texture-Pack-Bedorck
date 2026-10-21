@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.sword.first_person": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [27.61908, -13.23825, -123.71321],
+					"position": [0, 27, 1],
+					"scale": [1.4, 1.2, 1.6]
+				}
+			}
+		},
+		"animation.sword.third_person": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [88.93973, -4.97826, -87.64196],
+					"position": [2, 23, 1],
+					"scale": 1.4
+				}
+			}
+		}
+	}
+}
